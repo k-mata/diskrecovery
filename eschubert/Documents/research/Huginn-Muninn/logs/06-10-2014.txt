@@ -1,0 +1,13 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>
+>10:34:22
+Dear Diary,
+
+I'm really only writing this diary to comply with the company memo - we're supposed to be taking daily journals. Nothing on you, Diary - I'm just not a note-taking person by nature. But the job pays well, it's a really interesting project, and I get to work on a ship! A ship!
+
+I'm supposed to be maintaining this experimental Smart IRST-MWR system - this really cool tech that reads Infrared Search-and-Track and Milliwave Radar systems and combines them into one image. I'm not going to bother explaining, but basically what it does is it makes things super visible. You could see what's hot, what's cold, what's moving - and people get incredible situational awareness out of stuff. You could see a bird shit from a mile away.
+
+Unfortunately, it's not really that user friendly. Nor am I supposed to modify the imaging program. I'm just here to maintain, check logs, and apply the occassional update from Development.
+
+I'll be doing the initial work tonight! I'm so pumped.
+
+Erik

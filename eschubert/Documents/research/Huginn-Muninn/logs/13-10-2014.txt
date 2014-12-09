@@ -1,0 +1,26 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>
+>09:53:01
+
+Diary,
+
+Dear god, the system is buggy. I'm trained to expect software failures every now and then - but this is insane. The system appears like it works, but it's rendering this huge black spot on top of the image. It's this circle that takes up a quarter of the screen, blurring softly at the edges until it can render heat again.
+I'm gonna try to reposition the IR cameras to face the other way. Updates to come.
+ 
+>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>12:33:00
+
+Diary,
+
+Dammit, now the black spot isn't appearing when the cameras face toward the bow - which means it's probably an intermittent bug. I hate programmers.
+
+I'm flipping it back to face the stern.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+>14:01:25
+
+The black spot is back. This is absurd. If the reading is correct, then that means that there's a cold mass approximately 10 kilometres in radius floating in the sky.
+
+I think it's time I reported this to development.
+
